@@ -7,16 +7,21 @@ header{
 	background-color: #222528;
 	padding: 40px;
 	text-align: center;
+	text-shadow: 0 4px 50px black;
 }
 
 h1{
 	font-size: 90px;
 	color: white;
 }
+h2{
+	color: grey;
+}
 
 header img{
 	border-radius: 50px;
 	border: 15px solid #31383f;
+	box-shadow: 0 10px 20px black;
 }
 
 .content{
